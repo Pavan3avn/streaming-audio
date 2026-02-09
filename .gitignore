@@ -1,0 +1,6 @@
+# venv
+.venv
+.env
+/sample_audios
+/sounddevice/sound_device.py
+.DS_Store
